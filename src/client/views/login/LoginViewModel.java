@@ -27,8 +27,8 @@ public class LoginViewModel {
     }
 
 
-    public  boolean validateLogin(String username, String password){
-        return loginModelManager.validateLogin(username,password);
+    public  boolean validateLogin(String email, String password){
+        return loginModelManager.validateLogin(email,password);
 
     }
 
