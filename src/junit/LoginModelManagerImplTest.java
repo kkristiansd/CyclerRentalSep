@@ -15,7 +15,7 @@ class LoginModelManagerImplTest {
 
     @Before
     public void setUp() {
-        //CHANGE THIS
+        //CHANGE THI
        email= "john@example.com";
        password ="password123";
     }

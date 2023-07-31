@@ -19,7 +19,7 @@ class SignupModelManagerImplTest {
     @Test
     void isNewUser() {
         UserDAOImpl userDAO = new UserDAOImpl();
-        //CHANGE THE EMALI TO TEST
+        //CHANGE THE EMALI TO TES
         assertTrue(userDAO.get(email)==null);
     }
 

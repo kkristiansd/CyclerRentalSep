@@ -15,7 +15,7 @@ class BookingModelManagerImplTest {
 
     @Before
     public void setUp() {
-        //FILL THIS BOOKING OUT DEPENDEIGN OD DATABSE INFO
+        //FILL THIS BOOKING OUT DEPENDEIN OD DATABSE INFO
       booking = new Booking();
     }
     @Test
