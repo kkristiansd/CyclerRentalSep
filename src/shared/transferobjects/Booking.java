@@ -28,6 +28,9 @@ public class Booking implements Serializable {
         this.finalPrice = finalPrice;
     }
 
+    public Booking(int i, int i1, int i2, int i3, double v, int i4, int i5, int i6, int i7, int i8, int i9) {
+    }
+
     public int getId() {
         return id;
     }
